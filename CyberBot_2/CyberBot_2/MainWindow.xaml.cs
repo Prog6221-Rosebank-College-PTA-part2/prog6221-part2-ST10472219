@@ -16,11 +16,6 @@ using System.Windows.Shapes;
 
 
 
-
-
-
-
-
 namespace CyberBot_2
 {
     public partial class MainWindow : Window

@@ -116,11 +116,8 @@ You can ask me about:
 • Phishing
 • Privacy
 • Scams
-• Malware
 • Viruses
-• Hackers
-• Cyberbullying
-• Safe Browsing")));
+• Hackers")));
 
                 txtInput.Clear();
                 rtbChat.ScrollToEnd();
